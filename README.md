@@ -1,3 +1,3 @@
 # R_AP
 Access Point
-© 2016 Ryan Lockman All Rights Reserved (r_ap.cpp)
+© 2016 Ryan D. Lockman All Rights Reserved (r_ap.cpp)
