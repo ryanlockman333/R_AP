@@ -1,5 +1,6 @@
 /* * * * * * * * * * * * * * * * *\
 * A rouge access point!   /666/   *
+* (C) Copyright - Ryan Lockman    *
 \* * * * * * * * * * * * * * * * */
 
 /* NOTES
