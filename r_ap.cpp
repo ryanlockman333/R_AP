@@ -1,7 +1,7 @@
-/* * * * * * * * * * * * * * * * *\
-* A rouge access point!   /666/   *
-* (C) Copyright - Ryan Lockman    *
-\* * * * * * * * * * * * * * * * */
+/* * * * * * * * * * * * * * * * * * * * * * \
+* A rouge access point!   /666/            *
+* © 2016 Ryan Lockman All Rights Reserved  *
+\* * * * * * * * * * * * * * * * * * * * * */
 
 /* NOTES
     specify weather functions take ops and types as htonl/s or not
